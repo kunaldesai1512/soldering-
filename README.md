@@ -19,5 +19,5 @@ Step 3: Place the required LED on to the perf board, on a side without copper pa
 
 Step 4: Bend the leads to follow the path you want them to have. Add a bit of solder to both ends of that lead to hold it in place.
 
-#output 
+ 
 ![Screenshot (44)](https://github.com/kunaldesai1512/soldering-/assets/123637561/56bfe909-6df3-4871-92c1-b7952543ad3e)
