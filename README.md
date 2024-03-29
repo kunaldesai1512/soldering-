@@ -1,5 +1,6 @@
 # soldering-
-TASK 12 : Soldering Prerequisites Soldering Equipment: Soldering Iron: This handheld tool provides the heat source needed to melt the solder. Soldering irons are typically pencil-like in shape and consist of several different parts that work together to form a comfortable, practical and easy-to-use tool.
+#TASK 12
+: Soldering Prerequisites Soldering Equipment: Soldering Iron: This handheld tool provides the heat source needed to melt the solder. Soldering irons are typically pencil-like in shape and consist of several different parts that work together to form a comfortable, practical and easy-to-use tool.
 
 Solder Flux: Solder flux is a purifying agent. Flux serves three different purposes simultaneously. First, it purifies the components you're soldering by cleaning them of any rust. It also closes out any extra air that might come into contact with the material, thus preventing future rust. Finally, it improves the dripping individuality of the solder itself.
 
